@@ -1,6 +1,6 @@
 # csav-food
 
-You are required to develop a fully functional **CSAV Food** website using **HTML, CSS, JavaScript, and Bootstrap 5.3.3**. Each of you is assigned specific tasks, focusing on **layout, responsiveness, animations, and UI customization**.  
+We have developed the completed csav food mockup website
 
 
 # Contributions
